@@ -10,6 +10,6 @@ spec:
   template:
     spec:
       containers:
-      - image: schoolofdevops/vote:v2
+      - image: schoolofdevops/vote:v3
         name: vote
         resources: {}
